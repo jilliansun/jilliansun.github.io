@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="12.0(81)" ?>
+<?aid SnippetType="PageItem"?>
+<Document DOMVersion="12.0" Self="d">
+	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch3" />
+	<Color Self="Color/C=100 M=0 Y=0 K=0" Model="Process" Space="CMYK" ColorValue="100 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=0 Y=0 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch4" />
+	<Swatch Self="Swatch/None" Name="None" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch0" />
+	<StrokeStyle Self="StrokeStyle/$ID/Solid" Name="$ID/Solid" />
+	<RootCharacterStyleGroup Self="u78">
+		<CharacterStyle Self="CharacterStyle/$ID/[No character style]" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" Name="$ID/[No character style]" />
+	</RootCharacterStyleGroup>
+	<NumberingList Self="NumberingList/$ID/[Default]" Name="$ID/[Default]" ContinueNumbersAcrossStories="false" ContinueNumbersAcrossDocuments="false" />
+	<RootParagraphStyleGroup Self="u77">
+		<ParagraphStyle Self="ParagraphStyle/$ID/[No paragraph style]" Name="$ID/[No paragraph style]" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" FillColor="Color/Black" FontStyle="Regular" PointSize="12" HorizontalScale="100" KerningMethod="$ID/Metrics" Ligatures="true" PageNumberType="AutoPageNumber" StrokeWeight="1" Tracking="0" Composer="HL Composer" DropCapCharacters="0" DropCapLines="0" BaselineShift="0" Capitalization="Normal" StrokeColor="Swatch/None" HyphenateLadderLimit="3" VerticalScale="100" LeftIndent="0" RightIndent="0" FirstLineIndent="0" AutoLeading="120" AppliedLanguage="$ID/English: USA" Hyphenation="true" HyphenateAfterFirst="2" HyphenateBeforeLast="2" HyphenateCapitalizedWords="true" HyphenateWordsLongerThan="5" NoBreak="false" HyphenationZone="36" SpaceBefore="0" SpaceAfter="0" Underline="false" OTFFigureStyle="Default" DesiredWordSpacing="100" MaximumWordSpacing="133" MinimumWordSpacing="80" DesiredLetterSpacing="0" MaximumLetterSpacing="0" MinimumLetterSpacing="0" DesiredGlyphScaling="100" MaximumGlyphScaling="100" MinimumGlyphScaling="100" StartParagraph="Anywhere" KeepAllLinesTogether="false" KeepWithNext="0" KeepFirstLines="2" KeepLastLines="2" Position="Normal" StrikeThru="false" CharacterAlignment="AlignEmCenter" KeepLinesTogether="false" StrokeTint="-1" FillTint="-1" OverprintStroke="false" OverprintFill="false" GradientStrokeAngle="0" GradientFillAngle="0" GradientStrokeLength="-1" GradientFillLength="-1" GradientStrokeStart="0 0" GradientFillStart="0 0" Skew="0" RuleAboveLineWeight="1" RuleAboveTint="-1" RuleAboveOffset="0" RuleAboveLeftIndent="0" RuleAboveRightIndent="0" RuleAboveWidth="ColumnWidth" RuleBelowLineWeight="1" RuleBelowTint="-1" RuleBelowOffset="0" RuleBelowLeftIndent="0" RuleBelowRightIndent="0" RuleBelowWidth="ColumnWidth" RuleAboveOverprint="false" RuleBelowOverprint="false" RuleAbove="false" RuleBelow="false" LastLineIndent="0" HyphenateLastWord="true" ParagraphBreakType="Anywhere" SingleWordJustification="FullyJustified" OTFOrdinal="false" OTFFraction="false" OTFDiscretionaryLigature="false" OTFTitling="false" RuleAboveGapTint="-1" RuleAboveGapOverprint="false" RuleBelowGapTint="-1" RuleBelowGapOverprint="false" Justification="LeftAlign" DropcapDetail="1" PositionalForm="None" OTFMark="true" HyphenWeight="5" OTFLocale="true" HyphenateAcrossColumns="true" KeepRuleAboveInFrame="false" IgnoreEdgeAlignment="false" OTFSlashedZero="false" OTFStylisticSets="0" OTFHistorical="false" OTFContextualAlternate="true" UnderlineGapOverprint="false" UnderlineGapTint="-1" UnderlineOffset="-9999" UnderlineOverprint="false" UnderlineTint="-1" UnderlineWeight="-9999" StrikeThroughGapOverprint="false" StrikeThroughGapTint="-1" StrikeThroughOffset="-9999" StrikeThroughOverprint="false" StrikeThroughTint="-1" StrikeThroughWeight="-9999" MiterLimit="4" StrokeAlignment="OutsideAlignment" EndJoin="MiterEndJoin" SpanColumnType="SingleColumn" SplitColumnInsideGutter="6" SplitColumnOutsideGutter="0" KeepWithPrevious="false" SpanColumnMinSpaceBefore="0" SpanColumnMinSpaceAfter="0" OTFSwash="false" ParagraphShadingTint="-1" ParagraphShadingOverprint="false" ParagraphShadingWidth="ColumnWidth" ParagraphShadingOn="false" ParagraphShadingClipToFrame="false" ParagraphShadingSuppressPrinting="false" ParagraphShadingLeftOffset="0" ParagraphShadingRightOffset="0" ParagraphShadingTopOffset="0" ParagraphShadingBottomOffset="0" ParagraphShadingTopOrigin="AscentTopOrigin" ParagraphShadingBottomOrigin="DescentBottomOrigin" Tsume="0" LeadingAki="-1" TrailingAki="-1" KinsokuType="KinsokuPushInFirst" KinsokuHangType="None" BunriKinshi="true" RubyOpenTypePro="true" RubyFontSize="-1" RubyAlignment="RubyJIS" RubyType="PerCharacterRuby" RubyParentSpacing="RubyParent121Aki" RubyXScale="100" RubyYScale="100" RubyXOffset="0" RubyYOffset="0" RubyPosition="AboveRight" RubyAutoAlign="true" RubyParentOverhangAmount="RubyOverhangOneRuby" RubyOverhang="false" RubyAutoScaling="false" RubyParentScalingPercent="66" RubyTint="-1" RubyOverprintFill="Auto" RubyStrokeTint="-1" RubyOverprintStroke="Auto" RubyWeight="-1" KentenKind="None" KentenFontSize="-1" KentenXScale="100" KentenYScale="100" KentenPlacement="0" KentenAlignment="AlignKentenCenter" KentenPosition="AboveRight" KentenCustomCharacter="" KentenCharacterSet="CharacterInput" KentenTint="-1" KentenOverprintFill="Auto" KentenStrokeTint="-1" KentenOverprintStroke="Auto" KentenWeight="-1" Tatechuyoko="false" TatechuyokoXOffset="0" TatechuyokoYOffset="0" AutoTcy="0" AutoTcyIncludeRoman="false" Jidori="0" GridGyoudori="0" GridAlignFirstLineOnly="false" GridAlignment="None" CharacterRotation="0" RotateSingleByteCharacters="false" Rensuuji="true" ShataiMagnification="0" ShataiDegreeAngle="4500" ShataiAdjustTsume="true" ShataiAdjustRotation="false" Warichu="false" WarichuLines="2" WarichuSize="50" WarichuLineSpacing="0" WarichuAlignment="Auto" WarichuCharsBeforeBreak="2" WarichuCharsAfterBreak="2" OTFHVKana="false" OTFProportionalMetrics="false" OTFRomanItalics="false" LeadingModel="LeadingModelAkiBelow" ScaleAffectsLineHeight="false" ParagraphGyoudori="false" CjkGridTracking="false" GlyphForm="None" RubyAutoTcyDigits="0" RubyAutoTcyIncludeRoman="false" RubyAutoTcyAutoScale="true" TreatIdeographicSpaceAsSpace="true" AllowArbitraryHyphenation="false" BulletsAndNumberingListType="NoList" NumberingStartAt="1" NumberingLevel="1" NumberingContinue="true" NumberingApplyRestartPolicy="true" BulletsAlignment="LeftAlign" NumberingAlignment="LeftAlign" NumberingExpression="^#.^t" BulletsTextAfter="^t" DigitsType="DefaultDigits" Kashidas="DefaultKashidas" DiacriticPosition="OpentypePositionFromBaseline" CharacterDirection="DefaultDirection" ParagraphDirection="LeftToRightDirection" ParagraphJustification="DefaultJustification" ParagraphKashidaWidth="2" XOffsetDiacritic="0" YOffsetDiacritic="0" OTFOverlapSwash="false" OTFStylisticAlternate="false" OTFJustificationAlternate="false" OTFStretchedAlternate="false" KeyboardDirection="DefaultDirection">
+			<Properties>
+				<Leading type="enumeration">Auto</Leading>
+				<TabList type="list">
+				</TabList>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+				<RuleAboveColor type="string">Text Color</RuleAboveColor>
+				<RuleBelowColor type="string">Text Color</RuleBelowColor>
+				<RuleAboveType type="object">StrokeStyle/$ID/Solid</RuleAboveType>
+				<RuleBelowType type="object">StrokeStyle/$ID/Solid</RuleBelowType>
+				<BalanceRaggedLines type="enumeration">NoBalancing</BalanceRaggedLines>
+				<RuleAboveGapColor type="object">Swatch/None</RuleAboveGapColor>
+				<RuleBelowGapColor type="object">Swatch/None</RuleBelowGapColor>
+				<UnderlineColor type="string">Text Color</UnderlineColor>
+				<UnderlineGapColor type="object">Swatch/None</UnderlineGapColor>
+				<UnderlineType type="object">StrokeStyle/$ID/Solid</UnderlineType>
+				<StrikeThroughColor type="string">Text Color</StrikeThroughColor>
+				<StrikeThroughGapColor type="object">Swatch/None</StrikeThroughGapColor>
+				<StrikeThroughType type="object">StrokeStyle/$ID/Solid</StrikeThroughType>
+				<SpanSplitColumnCount type="enumeration">All</SpanSplitColumnCount>
+				<ParagraphShadingColor type="object">Color/C=100 M=0 Y=0 K=0</ParagraphShadingColor>
+				<Mojikumi type="enumeration">Nothing</Mojikumi>
+				<KinsokuSet type="enumeration">Nothing</KinsokuSet>
+				<RubyFont type="string">$ID/</RubyFont>
+				<RubyFontStyle type="enumeration">Nothing</RubyFontStyle>
+				<RubyFill type="string">Text Color</RubyFill>
+				<RubyStroke type="string">Text Color</RubyStroke>
+				<KentenFont type="string">$ID/</KentenFont>
+				<KentenFontStyle type="enumeration">Nothing</KentenFontStyle>
+				<KentenFillColor type="string">Text Color</KentenFillColor>
+				<KentenStrokeColor type="string">Text Color</KentenStrokeColor>
+				<BulletChar BulletCharacterType="UnicodeOnly" BulletCharacterValue="8226" />
+				<NumberingFormat type="string">1, 2, 3, 4...</NumberingFormat>
+				<BulletsFont type="string">$ID/</BulletsFont>
+				<BulletsFontStyle type="enumeration">Nothing</BulletsFontStyle>
+				<AppliedNumberingList type="object">NumberingList/$ID/[Default]</AppliedNumberingList>
+				<NumberingRestartPolicies RestartPolicy="AnyPreviousLevel" LowerLevel="0" UpperLevel="0" />
+				<BulletsCharacterStyle type="object">CharacterStyle/$ID/[No character style]</BulletsCharacterStyle>
+				<NumberingCharacterStyle type="object">CharacterStyle/$ID/[No character style]</NumberingCharacterStyle>
+			</Properties>
+		</ParagraphStyle>
+	</RootParagraphStyleGroup>
+	<RootObjectStyleGroup Self="u92">
+		<ObjectStyle Self="ObjectStyle/$ID/[None]" EmitCss="true" Name="$ID/[None]" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" CornerRadius="12" FillColor="Swatch/None" FillTint="-1" StrokeWeight="0" MiterLimit="4" EndCap="ButtEndCap" EndJoin="MiterEndJoin" StrokeType="StrokeStyle/$ID/Solid" LeftLineEnd="None" RightLineEnd="None" StrokeColor="Swatch/None" StrokeTint="-1" GapColor="Swatch/None" GapTint="-1" StrokeAlignment="CenterAlignment" Nonprinting="false" GradientFillAngle="0" GradientStrokeAngle="0" AppliedNamedGrid="n" TopLeftCornerOption="None" TopRightCornerOption="None" BottomLeftCornerOption="None" BottomRightCornerOption="None" TopLeftCornerRadius="12" TopRightCornerRadius="12" BottomLeftCornerRadius="12" BottomRightCornerRadius="12" CornerOption="None" ArrowHeadAlignment="InsidePath" LeftArrowHeadScale="100" RightArrowHeadScale="100">
+			<ObjectExportOption EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing">
+				<Properties>
+					<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+					<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+				</Properties>
+			</ObjectExportOption>
+			<TextFramePreference TextColumnCount="1" TextColumnGutter="12" TextColumnFixedWidth="144" UseFixedColumnWidth="false" FirstBaselineOffset="AscentOffset" MinimumFirstBaselineOffset="0" VerticalJustification="TopAlign" VerticalThreshold="0" IgnoreWrap="false" UseFlexibleColumnWidth="false" TextColumnMaxWidth="0" AutoSizingType="Off" AutoSizingReferencePoint="CenterPoint" UseMinimumHeightForAutoSizing="false" MinimumHeightForAutoSizing="0" UseMinimumWidthForAutoSizing="false" MinimumWidthForAutoSizing="0" UseNoLineBreaksForAutoSizing="false" VerticalBalanceColumns="false">
+				<Properties>
+					<InsetSpacing type="list">
+						<ListItem type="unit">0</ListItem>
+						<ListItem type="unit">0</ListItem>
+						<ListItem type="unit">0</ListItem>
+						<ListItem type="unit">0</ListItem>
+					</InsetSpacing>
+				</Properties>
+			</TextFramePreference>
+			<BaselineFrameGridOption UseCustomBaselineFrameGrid="false" StartingOffsetForBaselineFrameGrid="0" BaselineFrameGridRelativeOption="TopOfInset" BaselineFrameGridIncrement="12">
+				<Properties>
+					<BaselineFrameGridColor type="enumeration">LightBlue</BaselineFrameGridColor>
+				</Properties>
+			</BaselineFrameGridOption>
+			<AnchoredObjectSetting AnchoredPosition="InlinePosition" SpineRelative="false" LockPosition="false" PinPosition="true" AnchorPoint="BottomRightAnchor" HorizontalAlignment="LeftAlign" HorizontalReferencePoint="TextFrame" VerticalAlignment="BottomAlign" VerticalReferencePoint="LineBaseline" AnchorXoffset="0" AnchorYoffset="0" AnchorSpaceAbove="0" />
+			<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+				<Properties>
+					<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+				</Properties>
+				<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
+			</TextWrapPreference>
+			<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+			<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="0" BottomCrop="0" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
+			<TextFrameFootnoteOptionsObject EnableOverrides="false" SpanFootnotesAcross="false" MinimumSpacingOption="12" SpaceBetweenFootnotes="6" />
+		</ObjectStyle>
+	</RootObjectStyleGroup>
+	<TinDocumentDataObject>
+		<Properties>
+			<GaijiRefMaps><![CDATA[/////wAAAAAAAAAA]]></GaijiRefMaps>
+		</Properties>
+	</TinDocumentDataObject>
+	<TransparencyDefaultContainerObject>
+		<TransparencySetting>
+			<BlendingSetting BlendMode="Normal" Opacity="100" KnockoutGroup="false" IsolateBlending="false" />
+			<DropShadowSetting Mode="None" BlendMode="Multiply" Opacity="75" XOffset="7" YOffset="7" Size="5" EffectColor="n" Noise="0" Spread="0" UseGlobalLight="false" KnockedOut="true" HonorOtherEffects="false" />
+			<FeatherSetting Mode="None" Width="9" CornerType="Diffusion" Noise="0" ChokeAmount="0" />
+			<InnerShadowSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="75" Angle="120" Distance="7" UseGlobalLight="false" ChokeAmount="0" Size="7" Noise="0" />
+			<OuterGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7" />
+			<InnerGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7" Source="EdgeSourced" />
+			<BevelAndEmbossSetting Applied="false" Style="InnerBevel" Technique="SmoothContour" Depth="100" Direction="Up" Size="7" Soften="0" Angle="120" Altitude="30" UseGlobalLight="false" HighlightColor="n" HighlightBlendMode="Screen" HighlightOpacity="75" ShadowColor="n" ShadowBlendMode="Multiply" ShadowOpacity="75" />
+			<SatinSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="50" Angle="120" Distance="7" Size="7" InvertEffect="false" />
+			<DirectionalFeatherSetting Applied="false" LeftWidth="0" RightWidth="0" TopWidth="0" BottomWidth="0" ChokeAmount="0" Angle="0" FollowShapeMode="LeadingEdge" Noise="0" />
+			<GradientFeatherSetting Applied="false" Type="Linear" Angle="0" Length="0" GradientStart="0 0" HiliteAngle="0" HiliteLength="0" />
+		</TransparencySetting>
+		<StrokeTransparencySetting>
+			<BlendingSetting BlendMode="Normal" Opacity="100" KnockoutGroup="false" IsolateBlending="false" />
+			<DropShadowSetting Mode="None" BlendMode="Multiply" Opacity="75" XOffset="7" YOffset="7" Size="5" EffectColor="n" Noise="0" Spread="0" UseGlobalLight="false" KnockedOut="true" HonorOtherEffects="false" />
+			<FeatherSetting Mode="None" Width="9" CornerType="Diffusion" Noise="0" ChokeAmount="0" />
+			<InnerShadowSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="75" Angle="120" Distance="7" UseGlobalLight="false" ChokeAmount="0" Size="7" Noise="0" />
+			<OuterGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7" />
+			<InnerGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7" Source="EdgeSourced" />
+			<BevelAndEmbossSetting Applied="false" Style="InnerBevel" Technique="SmoothContour" Depth="100" Direction="Up" Size="7" Soften="0" Angle="120" Altitude="30" UseGlobalLight="false" HighlightColor="n" HighlightBlendMode="Screen" HighlightOpacity="75" ShadowColor="n" ShadowBlendMode="Multiply" ShadowOpacity="75" />
+			<SatinSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="50" Angle="120" Distance="7" Size="7" InvertEffect="false" />
+			<DirectionalFeatherSetting Applied="false" LeftWidth="0" RightWidth="0" TopWidth="0" BottomWidth="0" ChokeAmount="0" Angle="0" FollowShapeMode="LeadingEdge" Noise="0" />
+			<GradientFeatherSetting Applied="false" Type="Linear" Angle="0" Length="0" GradientStart="0 0" HiliteAngle="0" HiliteLength="0" />
+		</StrokeTransparencySetting>
+		<FillTransparencySetting>
+			<BlendingSetting BlendMode="Normal" Opacity="100" KnockoutGroup="false" IsolateBlending="false" />
+			<DropShadowSetting Mode="None" BlendMode="Multiply" Opacity="75" XOffset="7" YOffset="7" Size="5" EffectColor="n" Noise="0" Spread="0" UseGlobalLight="false" KnockedOut="true" HonorOtherEffects="false" />
+			<FeatherSetting Mode="None" Width="9" CornerType="Diffusion" Noise="0" ChokeAmount="0" />
+			<InnerShadowSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="75" Angle="120" Distance="7" UseGlobalLight="false" ChokeAmount="0" Size="7" Noise="0" />
+			<OuterGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7" />
+			<InnerGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7" Source="EdgeSourced" />
+			<BevelAndEmbossSetting Applied="false" Style="InnerBevel" Technique="SmoothContour" Depth="100" Direction="Up" Size="7" Soften="0" Angle="120" Altitude="30" UseGlobalLight="false" HighlightColor="n" HighlightBlendMode="Screen" HighlightOpacity="75" ShadowColor="n" ShadowBlendMode="Multiply" ShadowOpacity="75" />
+			<SatinSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="50" Angle="120" Distance="7" Size="7" InvertEffect="false" />
+			<DirectionalFeatherSetting Applied="false" LeftWidth="0" RightWidth="0" TopWidth="0" BottomWidth="0" ChokeAmount="0" Angle="0" FollowShapeMode="LeadingEdge" Noise="0" />
+			<GradientFeatherSetting Applied="false" Type="Linear" Angle="0" Length="0" GradientStart="0 0" HiliteAngle="0" HiliteLength="0" />
+		</FillTransparencySetting>
+		<ContentTransparencySetting>
+			<BlendingSetting BlendMode="Normal" Opacity="100" KnockoutGroup="false" IsolateBlending="false" />
+			<DropShadowSetting Mode="None" BlendMode="Multiply" Opacity="75" XOffset="7" YOffset="7" Size="5" EffectColor="n" Noise="0" Spread="0" UseGlobalLight="false" KnockedOut="true" HonorOtherEffects="false" />
+			<FeatherSetting Mode="None" Width="9" CornerType="Diffusion" Noise="0" ChokeAmount="0" />
+			<InnerShadowSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="75" Angle="120" Distance="7" UseGlobalLight="false" ChokeAmount="0" Size="7" Noise="0" />
+			<OuterGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7" />
+			<InnerGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7" Source="EdgeSourced" />
+			<BevelAndEmbossSetting Applied="false" Style="InnerBevel" Technique="SmoothContour" Depth="100" Direction="Up" Size="7" Soften="0" Angle="120" Altitude="30" UseGlobalLight="false" HighlightColor="n" HighlightBlendMode="Screen" HighlightOpacity="75" ShadowColor="n" ShadowBlendMode="Multiply" ShadowOpacity="75" />
+			<SatinSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="50" Angle="120" Distance="7" Size="7" InvertEffect="false" />
+			<DirectionalFeatherSetting Applied="false" LeftWidth="0" RightWidth="0" TopWidth="0" BottomWidth="0" ChokeAmount="0" Angle="0" FollowShapeMode="LeadingEdge" Noise="0" />
+			<GradientFeatherSetting Applied="false" Type="Linear" Angle="0" Length="0" GradientStart="0 0" HiliteAngle="0" HiliteLength="0" />
+		</ContentTransparencySetting>
+	</TransparencyDefaultContainerObject>
+	<Layer Self="uc4" Name="Layer 1" Visible="true" Locked="false" IgnoreWrap="false" ShowGuides="true" LockGuides="false" UI="true" Expendable="true" Printable="true">
+		<Properties>
+			<LayerColor type="enumeration">LightBlue</LayerColor>
+		</Properties>
+	</Layer>
+	<Spread Self="uc7">
+		<Rectangle Self="u5d98" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" ItemLayer="uc4" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[None]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 -978.5398222836016 -1331.0787107858152">
+			<Properties>
+				<PathGeometry>
+					<GeometryPathType PathOpen="false">
+						<PathPointArray>
+							<PathPointType Anchor="-162.03317337136545 -243.04976005704816" LeftDirection="-162.03317337136545 -243.04976005704816" RightDirection="-162.03317337136545 -243.04976005704816" />
+							<PathPointType Anchor="-162.03317337136545 243.04976005704816" LeftDirection="-162.03317337136545 243.04976005704816" RightDirection="-162.03317337136545 243.04976005704816" />
+							<PathPointType Anchor="162.03317337136545 243.04976005704816" LeftDirection="162.03317337136545 243.04976005704816" RightDirection="162.03317337136545 243.04976005704816" />
+							<PathPointType Anchor="162.03317337136545 -243.04976005704816" LeftDirection="162.03317337136545 -243.04976005704816" RightDirection="162.03317337136545 -243.04976005704816" />
+						</PathPointArray>
+					</GeometryPathType>
+				</PathGeometry>
+			</Properties>
+			<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+				<Properties>
+					<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+				</Properties>
+				<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
+			</TextWrapPreference>
+			<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+			<ObjectExportOption EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing">
+				<Properties>
+					<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+					<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+				</Properties>
+			</ObjectExportOption>
+			<Image Self="u5d94" Space="$ID/#Links_CMYK" ActualPpi="300 300" EffectivePpi="1600 1600" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/JPEG" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.18753839510574702 0 0 0.18753839510574702 -162.03317337136545 -243.04976005704816" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+				<Properties>
+					<Profile type="string">$ID/Use Document Default</Profile>
+					<GraphicBounds Left="0" Top="0" Right="1728" Bottom="2592" />
+				</Properties>
+				<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+					<Properties>
+						<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+					</Properties>
+					<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
+				</TextWrapPreference>
+				<Link Self="u5d97" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/jilliansun/Documents/UNI%20STUFF/Visual%20Communication/Year%203/Semester%201%20%28Exchange%29/Interdisciplinary%20Practice/Final%20Imagery/Sun_Jillian_Week4_1.jpg" LinkResourceFormat="$ID/JPEG" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 131357103630000000 9759609" LinkImportModificationTime="2017-04-03T17:26:03" LinkImportTime="2017-04-04T02:16:26" LinkResourceSize="0~94eb79" />
+				<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
+				<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
+			</Image>
+		</Rectangle>
+	</Spread>
+	<ColorGroup Self="ColorGroup/[Root Color Group]" Name="[Root Color Group]" IsRootColorGroup="true">
+		<ColorGroupSwatch Self="u18ColorGroupSwatch0" SwatchItemRef="Swatch/None" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch3" SwatchItemRef="Color/Black" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch4" SwatchItemRef="Color/C=100 M=0 Y=0 K=0" />
+	</ColorGroup>
+	<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c137 79.159768, 2016/08/11-13:24:42        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">
+         <dc:format>application/x-indesign</dc:format>
+         <xmp:CreatorTool>Adobe InDesign CC 2017 (Macintosh)</xmp:CreatorTool>
+         <xmp:CreateDate>2017-04-27T12:14:03+01:00</xmp:CreateDate>
+         <xmp:MetadataDate>2017-04-27T12:14:03+01:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2017-04-27T12:14:03+01:00</xmp:ModifyDate>
+         <xmp:Thumbnails>
+            <rdf:Alt>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpGImg:format>JPEG</xmpGImg:format>
+                  <xmpGImg:width>512</xmpGImg:width>
+                  <xmpGImg:height>512</xmpGImg:height>
+                  <xmpGImg:image>/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA&#xA;AQBIAAAAAQAB/+4AE0Fkb2JlAGQAAAAAAQUAAklE/9sAhAAKBwcHBwcKBwcKDgkJCQ4RDAsLDBEU&#xA;EBAQEBAUEQ8RERERDxERFxoaGhcRHyEhISEfKy0tLSsyMjIyMjIyMjIyAQsJCQ4MDh8XFx8rIx0j&#xA;KzIrKysrMjIyMjIyMjIyMjIyMjIyMjI+Pj4+PjJAQEBAQEBAQEBAQEBAQEBAQEBAQED/wAARCAD/&#xA;AKsDAREAAhEBAxEB/8QBogAAAAcBAQEBAQAAAAAAAAAABAUDAgYBAAcICQoLAQACAgMBAQEBAQAA&#xA;AAAAAAABAAIDBAUGBwgJCgsQAAIBAwMCBAIGBwMEAgYCcwECAxEEAAUhEjFBUQYTYSJxgRQykaEH&#xA;FbFCI8FS0eEzFmLwJHKC8SVDNFOSorJjc8I1RCeTo7M2F1RkdMPS4ggmgwkKGBmElEVGpLRW01Uo&#xA;GvLj88TU5PRldYWVpbXF1eX1ZnaGlqa2xtbm9jdHV2d3h5ent8fX5/c4SFhoeIiYqLjI2Oj4KTlJ&#xA;WWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+hEAAgIBAgMFBQQFBgQIAwNtAQACEQMEIRIxQQVRE2Ei&#xA;BnGBkTKhsfAUwdHhI0IVUmJy8TMkNEOCFpJTJaJjssIHc9I14kSDF1STCAkKGBkmNkUaJ2R0VTfy&#xA;o7PDKCnT4/OElKS0xNTk9GV1hZWltcXV5fVGVmZ2hpamtsbW5vZHV2d3h5ent8fX5/c4SFhoeIiY&#xA;qLjI2Oj4OUlZaXmJmam5ydnp+So6SlpqeoqaqrrK2ur6/9oADAMBAAIRAxEAPwDp+jaZpv6NsLj6&#xA;pB63oQyep6ac+fBW5cuNa175dmyT4yLPNqxY48INLk8v2QMaylrm3g5CK2uEilRA37Ks8RkAFB+1&#xA;2wHPL4svDC+DQ7aHgskjzxQhxFA6xLEvqBlf93DFEDUORvXrgOYlIgFX9DaP/wAsFt/yJT/mnB42&#xA;TvKPCh3B36G0f/lgtv8AkSn/ADTj42TvK+FDuDv0No//ACwW3/IlP+acfGyd5Xwodwd+htH/AOWC&#xA;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&#xA;EOH4/wC+f//Z</xmpGImg:image>
+               </rdf:li>
+            </rdf:Alt>
+         </xmp:Thumbnails>
+         <xmpMM:InstanceID>xmp.iid:ad73d155-8e90-4306-a1b8-dcc29f603e55</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:ad73d155-8e90-4306-a1b8-dcc29f603e55</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>xmp.did:ad73d155-8e90-4306-a1b8-dcc29f603e55</xmpMM:OriginalDocumentID>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>created</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:ad73d155-8e90-4306-a1b8-dcc29f603e55</stEvt:instanceID>
+                  <stEvt:when>2017-04-27T12:14:03+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CC 2017 (Macintosh)</stEvt:softwareAgent>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>
+</Document>

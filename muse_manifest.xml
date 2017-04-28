@@ -1,0 +1,92 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="interpracjilliansun.com" resolutions="1x" timestamp="1493303695276">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="future-archives.css" crc="256919407" ref="future-archives"/>
+    <file name="seeing-voices.css" crc="274958221" ref="seeing-voices"/>
+    <file name="self-defined-observation.css" crc="4009671366" ref="self-defined-observation"/>
+    <file name="index.css" crc="426404830" ref="index"/>
+    <file name="typographica.css" crc="332890801" ref="typographica"/>
+    <file name="fearlove-i.css" crc="425700043" ref="fearlove-i"/>
+    <file name="fearlove-ii.css" crc="4237475801" ref="fearlove-ii"/>
+  </folder>
+  <folder name="assets">
+    <file name="snippet_30f12637b.idms" crc="3901162643" seo="true" mt="1493291643000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:fearlove-i:future-archives:typographica:seeing-voices:self-defined-observation:fearlove-ii"/>
+    <file name="museutils.js" crc="4232573551" ref="index:fearlove-i:future-archives:typographica:seeing-voices:self-defined-observation:fearlove-ii"/>
+    <file name="whatinput.js" crc="86476730" ref="index:fearlove-i:future-archives:typographica:seeing-voices:self-defined-observation:fearlove-ii"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:fearlove-i:future-archives:typographica:seeing-voices:self-defined-observation:fearlove-ii"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:fearlove-i:future-archives:typographica:seeing-voices:self-defined-observation:fearlove-ii"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index:seeing-voices"/>
+    <file name="require.js" crc="4234670167" ref="index:fearlove-i:future-archives:typographica:seeing-voices:self-defined-observation:fearlove-ii"/>
+  </folder>
+  <folder name="images">
+    <file name="u345-14.png" crc="4267083823" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:fearlove-i:future-archives:typographica:fearlove-ii"/>
+    <file name="sun_jillian_week1.jpg" crc="3759240497" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u126-15.png" crc="252264050" ref="index"/>
+    <file name="u127_states.png" crc="11351535" ref="index"/>
+    <file name="u127_states-r.png" crc="11351535" ref="index"/>
+    <file name="sun_jillian_week2.jpg" crc="3910393341" seo="true" ref="fearlove-i">
+      <caption webpage="fearlove-i" alt=""/>
+    </file>
+    <file name="u310-4.png" crc="4240154313" ref="fearlove-i"/>
+    <file name="u316-4.png" crc="11547815" ref="fearlove-i"/>
+    <file name="u353-28.png" crc="352930422" ref="future-archives"/>
+    <file name="sun_jillian_week3.jpg" crc="224999055" seo="true" ref="future-archives">
+      <caption webpage="future-archives" alt=""/>
+    </file>
+    <file name="u356-4.png" crc="4103754723" ref="future-archives"/>
+    <file name="u359_states.png" crc="11351535" ref="future-archives"/>
+    <file name="u359_states-r.png" crc="11351535" ref="future-archives"/>
+    <file name="sun_jillian_week4_1.jpg" crc="4035437690" seo="true" ref="typographica">
+      <caption webpage="typographica" alt=""/>
+    </file>
+    <file name="sun_jillian_week4_12.jpg" crc="3888547676" seo="true" ref="typographica">
+      <caption webpage="typographica" alt=""/>
+    </file>
+    <file name="sun_jillian_week4_13.jpg" crc="176520998" seo="true" ref="typographica">
+      <caption webpage="typographica" alt=""/>
+    </file>
+    <file name="u362-4.png" crc="4266173598" ref="typographica"/>
+    <file name="u365_states.png" crc="11351535" ref="typographica"/>
+    <file name="u365_states-r.png" crc="11351535" ref="typographica"/>
+    <file name="sun_jillian_week6_01.jpg" crc="488979421" seo="true" ref="seeing-voices">
+      <caption webpage="seeing-voices" alt=""/>
+    </file>
+    <file name="sun_jillian_week6_02.jpg" crc="4078093337" seo="true" ref="seeing-voices">
+      <caption webpage="seeing-voices" alt=""/>
+    </file>
+    <file name="sun_jillian_week6_03.jpg" crc="277785080" seo="true" ref="seeing-voices">
+      <caption webpage="seeing-voices" alt=""/>
+    </file>
+    <file name="sun_jillian_week6_04.jpg" crc="3980639527" seo="true" ref="seeing-voices">
+      <caption webpage="seeing-voices" alt=""/>
+    </file>
+    <file name="sun_jillian_week6_05.jpg" crc="438358039" seo="true" ref="seeing-voices">
+      <caption webpage="seeing-voices" alt=""/>
+    </file>
+    <file name="sun_jillian_week6_06.jpg" crc="3927437518" seo="true" ref="seeing-voices">
+      <caption webpage="seeing-voices" alt=""/>
+    </file>
+    <file name="u431-9.png" crc="4059179933" ref="seeing-voices"/>
+    <file name="u329-7.png" crc="458788840" ref="fearlove-ii"/>
+    <file name="u319-4.png" crc="3762378672" ref="fearlove-ii"/>
+    <file name="sun_jillian_week2333x334.jpg" crc="3765266681" seo="true" ref="fearlove-ii">
+      <caption webpage="fearlove-ii" alt=""/>
+    </file>
+    <file name="u350_states.png" crc="11351535" ref="fearlove-ii"/>
+    <file name="u350_states-r.png" crc="11351535" ref="fearlove-ii"/>
+    <file name="u438-4.png" crc="53928377" ref="seeing-voices"/>
+  </folder>
+  <file name="index.html" crc="336853078" seo="true" mt="1493295747877" redirect="true"/>
+  <file name="fearlove-i.html" crc="161789369" seo="true" mt="1493295786152" redirect="true"/>
+  <file name="future-archives.html" crc="3789493711" seo="true" mt="1493295701970" redirect="true"/>
+  <file name="typographica.html" crc="3831253646" seo="true" mt="1493296008184" redirect="true"/>
+  <file name="seeing-voices.html" crc="4130225198" seo="true" mt="1493303667971" redirect="true"/>
+  <file name="self-defined-observation.html" crc="397243125" seo="true" mt="1493290826508" redirect="false"/>
+  <file name="fearlove-ii.html" crc="336203711" seo="true" mt="1493294958921" redirect="true"/>
+</manifest>
